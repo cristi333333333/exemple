@@ -1,2 +1,1 @@
-fami in java fx
-sau c# cu phpmyadmin sau sql sever poh
+fara css ca nu suporta intelij id ca aici e free
